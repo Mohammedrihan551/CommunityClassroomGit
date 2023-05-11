@@ -3,4 +3,6 @@ manglore
 kudapura 
 karkala
 bengaluru
-mysore`
+mysore
+
+India
